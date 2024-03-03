@@ -1,3 +1,6 @@
+export const metadata = {
+    title: "About Codeevolution"
+}
 
 const about = () => {
     return (

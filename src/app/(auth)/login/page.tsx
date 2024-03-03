@@ -1,0 +1,11 @@
+// route group (excluding auth route)
+
+const login = () => {
+    return (
+        <div>
+            <h1>Login</h1>
+        </div>
+    )
+}
+
+export default login
